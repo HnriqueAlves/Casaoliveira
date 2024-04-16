@@ -60,3 +60,7 @@ Banco de dados Mercado
 -pagamento
 
 ##### Diagrama casa oliveira
+
+
+#### Esquema de tabela para banco de dados
+!["ESquema casa oliveira excel"](esquemacasaoliveira.png)
